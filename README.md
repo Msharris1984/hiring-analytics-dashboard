@@ -2,7 +2,6 @@
 
 **Hiring Funnel Analytics Dashboard** for the Systems & Infrastructure role at **Sigma Growth Specialists**.
 
-![Dashboard Preview](screenshot.png) <!-- Add a screenshot later for better impact -->
 
 ## 📋 Project Overview
 
